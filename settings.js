@@ -37,7 +37,7 @@ global.region = 'dakhla marocco' //Country Region
 
 global.packname = '☬bot༒vanitas࿐' //Bot Pacage Name
 global.author = '😎𝙆.vanitas❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['#','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
